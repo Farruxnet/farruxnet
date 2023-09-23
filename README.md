@@ -29,4 +29,5 @@ I have experience in IT-business and startup projects. I have participated in se
 
 ### Backend Engineer, Team Lead at Scientech Solution
 `August, 2022 - present`
+
 I am currently working as a backend developer in this company. My main job in this company is writing the backend part of Python/Django projects and developing APIs. 
