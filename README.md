@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-### Farrux Elomonov
-`Software Engineer`
+### My name is Farrux Elomonov I'm `Software Engineer`
 
 ## About Me
 
