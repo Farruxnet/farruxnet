@@ -43,8 +43,6 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
 
 ## Skills
 
-***
-
 ### Technologies
 - Python, Django, RestAPI, Swagger, PostgreSQL, Redis, Git.
 ### Infrastructure
