@@ -13,8 +13,6 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
 
 ## **Experience**
 
-***
-
 ### Backend Engineer, Team Lead - Scientech Solution LLC (August 2022 - Present)
 - Full-time position
 - Backend development using Python/Django, API development, and team management.
