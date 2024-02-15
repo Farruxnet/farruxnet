@@ -3,8 +3,6 @@
 
 ## **About me**
 
-***
-
 <p style="text-align: justify;">
 I'm a software engineer with 3 years of coding experience. I'm passionate about learning new technologies, and as a hobby, I enjoy coding for microcontrollers like Arduino and Raspberry Pi. My primary programming language is Python, and I've completed over 20+ projects using it. I specialize in PostgreSQL as my main Database Management System (DBMS).</p>
 
