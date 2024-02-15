@@ -1,32 +1,66 @@
-### Hi there 👋
+# Farrux Elomonov <sup><small>*`Software Engineer`*</small></sup>
 
-My name is Farrux Elomonov I'm `Software Engineer`
 
-## About Me
+## **About me**
 
-I have experience in IT-business and startup projects. I have participated in several startups and actively contributed to the server side of the projects. I have 3 years of coding experience. I try to learn other technologies in my spare time. I also learned programming languages such as Go, C/C++. These languages are not perfect but I know the basics. And as a hobby, I also write code for microcontrollers like Arduino and Raspberry pi. My main programming language is Python, I have written more than 10 projects using python. Currently, I am focusing on the database. Building the database architecture correctly, writing complex queries, Backup, Restore, Database replication, Partition such as these. My main DBMS are PostgreSQL and MS SQL.
+***
+
+<p style="text-align: justify;">
+I'm a software engineer with 3 years of coding experience. I'm passionate about learning new technologies, and as a hobby, I enjoy coding for microcontrollers like Arduino and Raspberry Pi. My primary programming language is Python, and I've completed over 20+ projects using it. I specialize in PostgreSQL as my main Database Management System (DBMS).</p>
+
+## **Education**
+- **University:** Telecommunication Technologies (Broadcasting), TUIT (2018-2022)
+  - Java, Python, Database (DBMS), Data Structure and Algorithm
+  - IoT, Arduino, STM32, UAV (Drones)
+
+## **Experience**
+
+***
+
+### Backend Engineer, Team Lead - Scientech Solution LLC (August 2022 - Present)
+- Full-time position
+- Backend development using Python/Django, API development, and team management.
+- Technologies: Google Cloud Platform (GCP), REST APIs, Python, Django, PostgreSQL, Linux, Nginx, Websocket, Redis.
+***
+
+### Backend Engineer - SmartBPO (December 2022 - May 2023)
+- Part-time position
+- Worked with Python, Django, PostgreSQL on GCP, REST API, Linux, Nginx.
+***
+
+### Python Backend Developer - Wite Engineering LLC (April 2022 - November 2022)
+- Part-time position
+- Designed database architecture for the entire project.
+- Technologies: Telegram API, Websocket, IoT, Python, Django, PostgreSQL, Linux, Nginx.
+***
+
+### Python Backend Developer - Gold Pyramids LLC (June 2021 - August 2022)
+- Full-time position
+- Backend development using Python, Django, Redis, PostgreSQL, Rest API.
+- Additional DevOps duties.
+- Technologies: Python, Django, Redis, PostgreSQL, Rest API, Linux, Nginx.
+***
+
+### Python Backend Developer - Freelance (October 2020 - Present)
+- Worked in the domestic market of Uzbekistan on Telegram bots and websites.
+- Technologies: GCP, REST API, Python, Django, PostgreSQL, Linux, Nginx, Docker, Docker compose, CI/CD, GitHub actions.
+
+## Skills
+
+***
+
+### Technologies
+- Python, Django, RestAPI, Swagger, PostgreSQL, Redis, Git.
+### Infrastructure
+- Docker, Docker compose, CI/CD, GitHub actions, Nginx server configuration, Basic Auth for the server.
+### Leadership & Soft Skills
+- Communication, Teamwork, Creativity, Adaptability, Mentoring.
+### Languages
+- English (B1), Uzbek (native).
+
+## Projects
+- <a href="https://t.me/Py_uz" target="_blank">Telegram Blog</a>
+- <a href="https://www.youtube.com/@farruxnet" target="_blank">YouTube Blog</a>
 
 ## Contact
-`message@farruxnet.uz`
-
-## Hard Skills
-* Python, Django, Websocket, RestAPI
-* PostgreSQL, MS Sql Server, Redis
-* CI, CD
-* Docker, Docker compose
-* Git, GitHub, GitLab
-* AWS, GCP
-
-## Soft Skills
-* Communication
-* Problem-solving
-* Adaptability
-* Creativity
-* Teamwork
-* Mentoring
-## Work Experience
-
-### Backend Engineer, Team Lead at Scientech Solution
-`August, 2022 - present`
-
-I am currently working as a backend developer in this company. My main job in this company is writing the backend part of Python/Django projects and developing APIs. 
+- <a href="mailtro:farrux@elomonov.uz">farrux@elomonov.uz</a>
