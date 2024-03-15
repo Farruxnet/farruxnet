@@ -2,7 +2,6 @@
 
 ## **About me**
 
-***
 
 <p style="text-align: justify;">
 I'm a software engineer with 3 years of coding experience. I'm passionate about learning new technologies, and as a hobby, I enjoy coding for microcontrollers like Arduino and Raspberry Pi. My primary programming language is Python, and I've completed over 20+ projects using it. I specialize in PostgreSQL as my main Database Management System (DBMS).</p>
@@ -14,31 +13,30 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
 
 ## **Experience**
 
-***
 
 ### Backend Engineer, Team Lead - Scientech Solution LLC (August 2022 - Present)
 - Full-time position
 - Backend development using Python/Django, API development, and team management.
 - Technologies: Google Cloud Platform (GCP), REST APIs, Python, Django, PostgreSQL, Linux, Nginx, Websocket, Redis.
-***
+
 
 ### Backend Engineer - SmartBPO (December 2022 - May 2023)
 - Part-time position
 - Worked with Python, Django, PostgreSQL on GCP, REST API, Linux, Nginx.
-***
+
 
 ### Python Backend Developer - Wite Engineering LLC (April 2022 - November 2022)
 - Part-time position
 - Designed database architecture for the entire project.
 - Technologies: Telegram API, Websocket, IoT, Python, Django, PostgreSQL, Linux, Nginx.
-***
+
 
 ### Python Backend Developer - Gold Pyramids LLC (June 2021 - August 2022)
 - Full-time position
 - Backend development using Python, Django, Redis, PostgreSQL, Rest API.
 - Additional DevOps duties.
 - Technologies: Python, Django, Redis, PostgreSQL, Rest API, Linux, Nginx.
-***
+
 
 ### Python Backend Developer - Freelance (October 2020 - Present)
 - Worked in the domestic market of Uzbekistan on Telegram bots and websites.
@@ -46,7 +44,6 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
 
 ## Skills
 
-***
 
 ### Technologies
 - Python, Django, RestAPI, Swagger, PostgreSQL, Redis, Git.
