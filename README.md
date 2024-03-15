@@ -53,9 +53,9 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
 - Communication, Teamwork, Creativity, Adaptability, Mentoring.
 ### Education certificates
 
-- [Introduction to MongoDB, (MongoDB University)](certificates/mongodb_certificate.pdf){:target="_blank"}
-- [Database Design & Implementation, (Amigoscode.com)](certificates/cert_db_design.pdf){:target="_blank"}
-- [Relational Database and SQL Essentials, (Amigoscode.com)](certificates/psql_cert.pdf){:target="_blank"}
+- [Introduction to MongoDB, (MongoDB University)](certificates/mongodb_certificate.pdf)
+- [Database Design & Implementation, (Amigoscode.com)](certificates/cert_db_design.pdf)
+- [Relational Database and SQL Essentials, (Amigoscode.com)](certificates/psql_cert.pdf)
 
 ### Languages
 - English (B1), Uzbek (native).
