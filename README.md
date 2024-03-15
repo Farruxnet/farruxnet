@@ -1,7 +1,8 @@
 # Farrux Elomonov <sup><small>*`Software Engineer`*</small></sup>
 
-
 ## **About me**
+
+***
 
 <p style="text-align: justify;">
 I'm a software engineer with 3 years of coding experience. I'm passionate about learning new technologies, and as a hobby, I enjoy coding for microcontrollers like Arduino and Raspberry Pi. My primary programming language is Python, and I've completed over 20+ projects using it. I specialize in PostgreSQL as my main Database Management System (DBMS).</p>
@@ -12,6 +13,8 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
   - IoT, Arduino, STM32, UAV (Drones)
 
 ## **Experience**
+
+***
 
 ### Backend Engineer, Team Lead - Scientech Solution LLC (August 2022 - Present)
 - Full-time position
@@ -43,12 +46,20 @@ I'm a software engineer with 3 years of coding experience. I'm passionate about 
 
 ## Skills
 
+***
+
 ### Technologies
 - Python, Django, RestAPI, Swagger, PostgreSQL, Redis, Git.
 ### Infrastructure
 - Docker, Docker compose, CI/CD, GitHub actions, Nginx server configuration, Basic Auth for the server.
 ### Leadership & Soft Skills
 - Communication, Teamwork, Creativity, Adaptability, Mentoring.
+### Education certificates
+
+- [Introduction to MongoDB, (MongoDB University)](certificates/mongodb_certificate.pdf){:target="_blank"}
+- [Database Design & Implementation, (Amigoscode.com)](certificates/cert_db_design.pdf){:target="_blank"}
+- [Relational Database and SQL Essentials, (Amigoscode.com)](certificates/psql_cert.pdf){:target="_blank"}
+
 ### Languages
 - English (B1), Uzbek (native).
 
